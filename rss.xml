@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Amber Research | digital solutions for research &amp; development and data analytics</title>
+		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
+		<link></link>
+		<description>digital solutions for research &amp; development and data analytics</description>
+		<language>en-US</language>
+		<copyright>(c) 2025, Amber Research</copyright>	
+		<pubDate>Tue, 30 Sep 2025 18:34:59 -0400</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 18:34:59 -0400</lastBuildDate>
+		<category>blog</category>
+		<ttl>60</ttl>
+		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>Amber Research | digital solutions for research &amp; development and data analytics</title>
+			<url></url>
+			<link></link>
+			<description>digital solutions for research &amp; development and data analytics</description>
+		</image></channel>
+</rss>
